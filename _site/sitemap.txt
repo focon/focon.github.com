@@ -4,6 +4,7 @@ http://username.github.io/pages/Read%20all%20about%20it
 http://username.github.io/archive
 http://username.github.io/atom.xml
 http://username.github.io/categories
+http://username.github.io/pages/Dictators/
 http://username.github.io/pages/Editorials/
 http://username.github.io/
 http://username.github.io/pages
